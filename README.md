@@ -25,7 +25,6 @@ Antes de ejecutar este proyecto, asegúrate de tener instalado Python correctame
 
 Abre una terminal o cmd en la carpeta del proyecto y ejecuta el siguiente comando:   
 
-    ```bash
     python Servidor_TCP.py
 
 El servidor mostrará el siguiente mensaje:

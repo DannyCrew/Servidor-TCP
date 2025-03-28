@@ -20,7 +20,6 @@ Antes de ejecutar este proyecto, asegúrate de tener instalado Python correctame
    
    ```bash
    git clone https://github.com/DannyCrew/Servidor-TCP
-   cd cliente-servidor-tcp
 
 2. **Ejecutar el servidor**
 

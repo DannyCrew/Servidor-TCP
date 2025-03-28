@@ -30,7 +30,7 @@ Abre una terminal o cmd en la carpeta del proyecto y ejecuta el siguiente comand
 El servidor mostrará el siguiente mensaje:
 
 
-Servidor TCP escuchando en el puerto 5000...
+    Servidor TCP escuchando en el puerto 5000...
 
 3. **Ejecutar el cliente** (en una nueva terminal o ventana de cmd):
 

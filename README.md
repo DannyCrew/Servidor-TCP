@@ -22,7 +22,7 @@ Antes de ejecutar este proyecto, asegúrate de tener instalado Python correctame
    git clone https://github.com/DannyCrew/Servidor-TCP
    cd cliente-servidor-tcp
 
-3. **Ejecutar el servidor**
+2. **Ejecutar el servidor**
 
 Abre una terminal o cmd en la carpeta del proyecto y ejecuta el siguiente comando:
 
@@ -31,7 +31,7 @@ Abre una terminal o cmd en la carpeta del proyecto y ejecuta el siguiente comand
 
 El servidor mostrará: Servidor TCP escuchando en el puerto 5000...
 
-1. **Ejecutar el cliente** (en una nueva terminal o ventana de cmd):
+3. **Ejecutar el cliente** (en una nueva terminal o ventana de cmd):
 
 En otra terminal, ve a la carpeta del proyecto y ejecuta:
 

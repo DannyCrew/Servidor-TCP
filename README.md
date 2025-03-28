@@ -18,7 +18,6 @@ Antes de ejecutar este proyecto, asegúrate de tener instalado Python correctame
 
 1. **Clonar el repositorio** en tu máquina local:
 
-   ```bash
    git clone https://github.com/DannyCrew/Servidor-TCP
    cd cliente-servidor-tcp
 
@@ -47,7 +46,6 @@ Escribe cualquier mensaje normal, por ejemplo: hola servidor.
 
 El servidor responderá:
 
-    ```bash
     HOLA CLIENTE
     Prueba de desconexión
     Envía el mensaje DESCONEXION desde el cliente.

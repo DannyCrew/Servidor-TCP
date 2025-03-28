@@ -47,6 +47,7 @@ El cliente solicitará al usuario ingresar un mensaje para enviar al servidor.
 
 2. El servidor responderá: 
 
+    ```bash
     HOLA CLIENTE
 
 ## Prueba de desconexión

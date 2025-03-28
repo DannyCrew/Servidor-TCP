@@ -17,11 +17,12 @@ Antes de ejecutar este proyecto, asegúrate de tener instalado Python correctame
 ## Instrucciones para ejecutar el servidor y cliente
 
 1. **Clonar el repositorio** en tu máquina local:
+   
    ```bash
    git clone https://github.com/DannyCrew/Servidor-TCP
    cd cliente-servidor-tcp
 
-3. **Ejecutar el servidor**
+2. **Ejecutar el servidor**
 
 Abre una terminal o cmd en la carpeta del proyecto y ejecuta el siguiente comando:   
 
@@ -41,16 +42,19 @@ En otra terminal, ve a la carpeta del proyecto y ejecuta:
 El cliente solicitará al usuario ingresar un mensaje para enviar al servidor.
 
 ## Pruebas manuales
-Prueba de comunicación estándar
-Escribe cualquier mensaje normal, por ejemplo: hola servidor.
+### Prueba de comunicación estándar
 
-El servidor responderá:
+1. Escribe cualquier mensaje normal, por ejemplo: hola servidor.
+
+2. El servidor responderá: 
 
     HOLA CLIENTE
-    Prueba de desconexión
-    Envía el mensaje DESCONEXION desde el cliente.
 
-Verifica que el servidor cierre la conexión con el cliente, mientras permanece disponible para nuevas conexiones.
+## Prueba de desconexión
+
+1. Envía el mensaje **DESCONEXION** desde el cliente.
+
+2. Verifica que el servidor cierre la conexión con el cliente, mientras permanece disponible para nuevas conexiones.
 
 ### Notas importantes
 Ejecuta siempre el servidor antes de iniciar el cliente para evitar errores de conexión.

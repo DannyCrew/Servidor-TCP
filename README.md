@@ -18,14 +18,14 @@ Antes de ejecutar este proyecto, asegúrate de tener instalado Python correctame
 
 1. **Clonar el repositorio** en tu máquina local:
 
-    ```bash
-    git clone https://github.com/DannyCrew/Servidor-TCP
-    cd cliente-servidor-tcp
+   git clone https://github.com/DannyCrew/Servidor-TCP
+   cd cliente-servidor-tcp
 
 3. **Ejecutar el servidor**
 
 Abre una terminal o cmd en la carpeta del proyecto y ejecuta el siguiente comando:   
 
+    ```bash
     python Servidor_TCP.py
 
 El servidor mostrará el siguiente mensaje:

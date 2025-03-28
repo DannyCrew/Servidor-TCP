@@ -24,10 +24,10 @@ Antes de ejecutar este proyecto, asegúrate de tener instalado Python correctame
 
 2. **Ejecutar el servidor**
 
-Abre una terminal o cmd en la carpeta del proyecto y ejecuta el siguiente comando:
+Abre una terminal o cmd en la carpeta del proyecto y ejecuta el siguiente comando:   
 
-   ``bash
-   python Servidor_TCP.py
+    ```bash
+    python Servidor_TCP.py
 
 El servidor mostrará el siguiente mensaje:
 
@@ -38,25 +38,25 @@ Servidor TCP escuchando en el puerto 5000...
 
 En otra terminal, ve a la carpeta del proyecto y ejecuta:
 
-   ``bash
-   python Cliente_TCP.py
+    ```bash
+    python Cliente_TCP.py
 
 El cliente solicitará al usuario ingresar un mensaje para enviar al servidor.
 
-##Pruebas manuales
+## Pruebas manuales
 Prueba de comunicación estándar
 Escribe cualquier mensaje normal, por ejemplo: hola servidor.
 
 El servidor responderá:
 
-   ```bash
-   HOLA CLIENTE
-   Prueba de desconexión
-   Envía el mensaje DESCONEXION desde el cliente.
+    ```bash
+    HOLA CLIENTE
+    Prueba de desconexión
+    Envía el mensaje DESCONEXION desde el cliente.
 
 Verifica que el servidor cierre la conexión con el cliente, mientras permanece disponible para nuevas conexiones.
 
-Notas importantes
+### Notas importantes
 Ejecuta siempre el servidor antes de iniciar el cliente para evitar errores de conexión.
 
 Si no puedes ejecutar Python desde la terminal, asegúrate de haber marcado la opción "Add Python to PATH" durante la instalación de Python.

@@ -18,6 +18,7 @@ Antes de ejecutar este proyecto, asegúrate de tener instalado Python correctame
 
 1. **Clonar el repositorio** en tu máquina local:
 
+    ```bash
     git clone https://github.com/DannyCrew/Servidor-TCP
     cd cliente-servidor-tcp
 
